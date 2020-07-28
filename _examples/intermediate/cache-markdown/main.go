@@ -3,8 +3,8 @@ package main
 import (
 	"time"
 
-	"gopkg.in/kataras/iris.v6"
-	"gopkg.in/kataras/iris.v6/adaptors/httprouter"
+	"gopkg.in/Likeyn/iris.v6"
+	"gopkg.in/Likeyn/iris.v6/adaptors/httprouter"
 )
 
 var testMarkdownContents = `## Hello Markdown

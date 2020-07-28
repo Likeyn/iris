@@ -3,7 +3,7 @@ package lexer
 import (
 	"testing"
 
-	"gopkg.in/kataras/iris.v6/_future/ipel/token"
+	"gopkg.in/Likeyn/iris.v6/_future/ipel/token"
 )
 
 func TestNextToken(t *testing.T) {

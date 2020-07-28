@@ -19,7 +19,7 @@ The Iris project is distributed across multiple repositories, try to file the is
 Before post a new issue do an iris upgrade:
 
 - Delete `$GOPATH/src/gopkg.in/kataras`
-- Open shell and execute the command: `go get -u gopkg.in/kataras/iris.v6/iris`
+- Open shell and execute the command: `go get -u gopkg.in/Likeyn/iris.v6/iris`
 - Try to re-produce the issue
 - If the issue still exists, then post the issue with the necessary information.
 

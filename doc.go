@@ -63,8 +63,8 @@ Example code:
       package main
 
       import (
-      	"gopkg.in/kataras/iris.v6"
-      	"gopkg.in/kataras/iris.v6/adaptors/httprouter" // <--- or adaptors/gorillamux
+      	"gopkg.in/Likeyn/iris.v6"
+      	"gopkg.in/Likeyn/iris.v6/adaptors/httprouter" // <--- or adaptors/gorillamux
       )
 
       func main() {
@@ -171,8 +171,8 @@ Example `gorillamux` code:
       package main
 
       import (
-      	"gopkg.in/kataras/iris.v6"
-      	"gopkg.in/kataras/iris.v6/adaptors/gorillamux"
+      	"gopkg.in/Likeyn/iris.v6"
+      	"gopkg.in/Likeyn/iris.v6/adaptors/gorillamux"
       )
 
       func main() {
@@ -235,8 +235,8 @@ Example `httprouter` code:
       package main
 
       import (
-        "gopkg.in/kataras/iris.v6"
-        "gopkg.in/kataras/iris.v6/adaptors/httprouter" // <---- NEW
+        "gopkg.in/Likeyn/iris.v6"
+        "gopkg.in/Likeyn/iris.v6/adaptors/httprouter" // <---- NEW
       )
 
       func main() {
@@ -404,8 +404,8 @@ Example code:
       package main
 
       import (
-      	"gopkg.in/kataras/iris.v6"
-      	"gopkg.in/kataras/iris.v6/adaptors/httprouter"
+      	"gopkg.in/Likeyn/iris.v6"
+      	"gopkg.in/Likeyn/iris.v6/adaptors/httprouter"
       )
 
       func main() {
@@ -484,8 +484,8 @@ Example code:
 
       import (
       	"github.com/rs/cors"
-      	"gopkg.in/kataras/iris.v6"
-      	"gopkg.in/kataras/iris.v6/adaptors/gorillamux"
+      	"gopkg.in/Likeyn/iris.v6"
+      	"gopkg.in/Likeyn/iris.v6/adaptors/gorillamux"
       )
 
       // newCorsMiddleware returns a new cors middleware
@@ -546,9 +546,9 @@ Example code:
       package main
 
       import (
-      	"gopkg.in/kataras/iris.v6"
-      	"gopkg.in/kataras/iris.v6/adaptors/gorillamux"
-      	"gopkg.in/kataras/iris.v6/adaptors/view" // <--- it contains all the template engines
+      	"gopkg.in/Likeyn/iris.v6"
+      	"gopkg.in/Likeyn/iris.v6/adaptors/gorillamux"
+      	"gopkg.in/Likeyn/iris.v6/adaptors/view" // <--- it contains all the template engines
       )
 
       func main() {

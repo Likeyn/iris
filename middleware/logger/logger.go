@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"gopkg.in/kataras/iris.v6"
+	"gopkg.in/Likeyn/iris.v6"
 )
 
 type loggerMiddleware struct {

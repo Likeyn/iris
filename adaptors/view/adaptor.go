@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/kataras/go-template"
-	"gopkg.in/kataras/iris.v6"
+	"gopkg.in/Likeyn/iris.v6"
 )
 
 // Adaptor contains the common actions

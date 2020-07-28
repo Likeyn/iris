@@ -8,8 +8,8 @@ package gorillamux
 // package main
 //
 // import (
-// 	"gopkg.in/kataras/iris.v6"
-// 	"gopkg.in/kataras/iris.v6/adaptors/gorillamux"
+// 	"gopkg.in/Likeyn/iris.v6"
+// 	"gopkg.in/Likeyn/iris.v6/adaptors/gorillamux"
 // )
 //
 // func main() {
@@ -29,7 +29,7 @@ import (
 	"strings"
 
 	"github.com/gorilla/mux"
-	"gopkg.in/kataras/iris.v6"
+	"gopkg.in/Likeyn/iris.v6"
 )
 
 const dynamicSymbol = '{'

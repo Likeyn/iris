@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/iris-contrib/httpexpect"
-	"gopkg.in/kataras/iris.v6"
+	"gopkg.in/Likeyn/iris.v6"
 )
 
 type (

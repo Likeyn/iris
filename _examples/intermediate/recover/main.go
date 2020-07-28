@@ -1,9 +1,9 @@
 package main
 
 import (
-	"gopkg.in/kataras/iris.v6"
-	"gopkg.in/kataras/iris.v6/adaptors/httprouter"
-	"gopkg.in/kataras/iris.v6/middleware/recover"
+	"gopkg.in/Likeyn/iris.v6"
+	"gopkg.in/Likeyn/iris.v6/adaptors/httprouter"
+	"gopkg.in/Likeyn/iris.v6/middleware/recover"
 )
 
 func main() {

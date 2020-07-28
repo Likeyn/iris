@@ -4,9 +4,9 @@ import (
 	"bytes"
 
 	"github.com/kataras/go-mailer"
-	"gopkg.in/kataras/iris.v6"
-	"gopkg.in/kataras/iris.v6/adaptors/view"
-	"gopkg.in/kataras/iris.v6/adaptors/httprouter"
+	"gopkg.in/Likeyn/iris.v6"
+	"gopkg.in/Likeyn/iris.v6/adaptors/view"
+	"gopkg.in/Likeyn/iris.v6/adaptors/httprouter"
 )
 
 func main() {

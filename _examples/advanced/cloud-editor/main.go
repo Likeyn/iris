@@ -1,10 +1,10 @@
 package main
 
 import (
-	"gopkg.in/kataras/iris.v6"
-	"gopkg.in/kataras/iris.v6/adaptors/httprouter"
-	"gopkg.in/kataras/iris.v6/adaptors/typescript" // optinally
-	"gopkg.in/kataras/iris.v6/adaptors/typescript/editor"
+	"gopkg.in/Likeyn/iris.v6"
+	"gopkg.in/Likeyn/iris.v6/adaptors/httprouter"
+	"gopkg.in/Likeyn/iris.v6/adaptors/typescript" // optinally
+	"gopkg.in/Likeyn/iris.v6/adaptors/typescript/editor"
 )
 
 func main() {

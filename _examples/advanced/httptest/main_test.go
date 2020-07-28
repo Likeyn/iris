@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"gopkg.in/kataras/iris.v6/httptest"
+	"gopkg.in/Likeyn/iris.v6/httptest"
 )
 
 // $ cd _example

@@ -5,10 +5,10 @@ import (
 	"sync"
 	"time"
 
-	"gopkg.in/kataras/iris.v6"
-	"gopkg.in/kataras/iris.v6/adaptors/httprouter"
-	"gopkg.in/kataras/iris.v6/adaptors/view"
-	"gopkg.in/kataras/iris.v6/adaptors/websocket"
+	"gopkg.in/Likeyn/iris.v6"
+	"gopkg.in/Likeyn/iris.v6/adaptors/httprouter"
+	"gopkg.in/Likeyn/iris.v6/adaptors/view"
+	"gopkg.in/Likeyn/iris.v6/adaptors/websocket"
 )
 
 type clientPage struct {

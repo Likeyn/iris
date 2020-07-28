@@ -1,11 +1,11 @@
 package main
 
 import (
-	"gopkg.in/kataras/iris.v6"
-	"gopkg.in/kataras/iris.v6/adaptors/httprouter"
-	"gopkg.in/kataras/iris.v6/adaptors/sessions"
-	"gopkg.in/kataras/iris.v6/adaptors/sessions/sessiondb/redis"
-	"gopkg.in/kataras/iris.v6/adaptors/sessions/sessiondb/redis/service"
+	"gopkg.in/Likeyn/iris.v6"
+	"gopkg.in/Likeyn/iris.v6/adaptors/httprouter"
+	"gopkg.in/Likeyn/iris.v6/adaptors/sessions"
+	"gopkg.in/Likeyn/iris.v6/adaptors/sessions/sessiondb/redis"
+	"gopkg.in/Likeyn/iris.v6/adaptors/sessions/sessiondb/redis/service"
 )
 
 func main() {
